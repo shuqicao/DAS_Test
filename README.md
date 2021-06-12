@@ -2,4 +2,4 @@
 
 This is some text from RStudio. 
 
-This is some text from G.
+This is some text from GitHub.
